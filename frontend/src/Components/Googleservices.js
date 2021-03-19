@@ -10,4 +10,4 @@ const googleLogin = async (accesstoken) => {
     console.log(res);
     return await res.status;
 };
-export default googleLogin
+export default googleLogin;
